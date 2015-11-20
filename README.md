@@ -6,7 +6,7 @@ First I'd like to thank the XMind company that makes this project possible.  If 
 
 # Project status
 
-XMind is a high-quality brainstorming/mind-mapping Eclipse RCP application, focused on both usability and extendability. It helps people in capturing ideas into visually self-organized charts and sharing them for collaboration and communication. Currently supporting mind maps, fishbone diagrams, tree diagrams, org-charts, logic charts, and even spreadsheets. It is often used for knowledge management, meeting minutes, task management, and GTD.
+XMind is a high-quality fully open source brainstorming/mind-mapping Eclipse RCP application, focused on both usability and extendability. It helps people in capturing ideas into visually self-organized charts and sharing them for collaboration and communication. Currently supporting mind maps, fishbone diagrams, tree diagrams, org-charts, logic charts, and even spreadsheets. It is often used for knowledge management, meeting minutes, task management, and GTD.
 
 This version of XMind is fully buildable as an open-source project and produces Mac/Linux/Win32 RCP application binaries.  It is currently a standalone RCP application and this application, while lacking the commercial features of commercial XMind like Microsoft Word export is quite nice and very usable as it is.
 
