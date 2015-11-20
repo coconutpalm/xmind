@@ -1,6 +1,6 @@
 # Thanks/acknowledgement
 
-First I'd like to thank the XMind company that makes this project possible.  If you like this, consider supporting them.  I intend to rebase this work on their stream on a regular basis.
+First I'd like to thank the XMind company that makes this project possible.  If you like this, consider supporting them.  I intend to rebase this work on their stream on a regular basis.  They are welcome to do the same.
 
 **[Download XMind for Windows/Mac/Ubuntu](http://www.xmind.net/download/)**
 
