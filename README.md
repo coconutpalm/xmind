@@ -6,11 +6,11 @@ First I'd like to thank the XMind company that makes this project possible.  If 
 
 # Project status
 
-XMind is an open source project that contributes to building a cutting-edge brainstorming/mind-mapping facility, focused on both usability and extendability. It helps people in capturing ideas into visually self-organized charts and sharing them for collaboration and communication. Currently supporting mind maps, fishbone diagrams, tree diagrams, org-charts, logic charts, and even spreadsheets. Often used for knowledge management, meeting minutes, task management, and GTD.
+XMind is a high-quality brainstorming/mind-mapping Eclipse RCP application, focused on both usability and extendability. It helps people in capturing ideas into visually self-organized charts and sharing them for collaboration and communication. Currently supporting mind maps, fishbone diagrams, tree diagrams, org-charts, logic charts, and even spreadsheets. It is often used for knowledge management, meeting minutes, task management, and GTD.
 
-This version of XMind is fully buildable as an open-source project and produces Mac/Linux/Win32 RCP application binaries.  It is currently a standalone RCP application and this application, while lacking the commercial features of XMind like Microsoft Word export is quite nice and very usable as it is.
+This version of XMind is fully buildable as an open-source project and produces Mac/Linux/Win32 RCP application binaries.  It is currently a standalone RCP application and this application, while lacking the commercial features of commercial XMind like Microsoft Word export is quite nice and very usable as it is.
 
-There is also a project inside the repo for building a P2 update site you can install into your Eclipse.  If you choose this route, you should be aware that the result has some annoying, though generally not show-stopping glitches, noted below.  Overall, if one is willing to overlook the current glitches, in its current state XMind is already a fantastic mind mapping addition to the Eclipse IDE.
+There is also a project inside the repo for building a P2 update site that you can install into your Eclipse IDE.  If you choose this route, you should be aware that the result has some annoying, though generally not show-stopping glitches, noted below under "to-do" items.  Overall, if one is willing to overlook the current glitches, in its current state XMind is already a fantastic mind mapping addition to the Eclipse IDE.
 
 # XMind Potential
 
